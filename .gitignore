@@ -7,6 +7,7 @@ tmp
 .idea
 *.iml
 *.class
+**/rebel.xml
 
 # Package Files #
 *.jar
